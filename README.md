@@ -70,12 +70,9 @@ Your server should now be running at port you specified in the `.env` file.
 ├── domain/
 ├── internal/
 │   ├── tokenutil/
-│   ├── repository/
-│   └── usecase/
 ├── repository/
 ├── usecase/
 ├── utils/
-├── docs/
 └── main.go
 ```
 
