@@ -8,6 +8,8 @@ This is a template repository for building a Golang backend application followin
 - **User CRUD Operations**: Basic user management operations (Create, Read, Update, Delete).
 
 **You can use this project as a template to build your Backend project in the Go language on top of this project.**
+** Edit the project to suit your needs.**
+
 
 Please ⭐️ this repository if this project helped you, also contributions are welcome 🙏🏼
 
