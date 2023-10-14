@@ -27,11 +27,18 @@ Before you begin, ensure you have the following installed:
 - [Google Cloud Console](https://console.cloud.google.com/) project for Google Auth setup.
 
 ### Installation
+There are two ways to start using this template:
+
+1. Create a new repository based on this template by clicking the **Use this template** button at the top of this page.
+
+
+----
+
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/oguzhantasimaz/Go-Clean-Architecture-Template.git
    cd your-repo-name
    ```
 
