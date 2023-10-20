@@ -1,5 +1,9 @@
 # Golang Backend Clean Architecture Template
 
+![GitHub](https://img.shields.io/github/license/oguzhantasimaz/Go-Clean-Architecture-Template)
+![GitHub Go Module Version](https://img.shields.io/github/go-mod/go-version/oguzhantasimaz/Go-Clean-Architecture-Template)
+![GitHub issues](https://img.shields.io/github/issues/oguzhantasimaz/Go-Clean-Architecture-Template)
+
 This is a template repository for building a Golang backend application following the Clean Architecture principles. It includes the following features:
 
 - **Google Auth**: Integration with Google OAuth for user authentication.
